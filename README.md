@@ -4,7 +4,6 @@
 
 Welcome to my repository, which showcases **mechatronics engineering projects applied to embedded systems, automation, robotics, and IoT**. Each project demonstrates **advanced technical skills and practical engineering solutions**.
 
----
 
 ## Areas of Expertise
 
@@ -14,7 +13,6 @@ Welcome to my repository, which showcases **mechatronics engineering projects ap
 * **IoT and Connectivity:** Remote communication, dashboards, MQTT, Blynk, Node-RED.
 * **Mechanical Design and CAD:** 3D modeling in Fusion 360 and SolidWorks, simulations, and prototyping.
 
----
 
 ## Project Presentation
 
@@ -25,7 +23,6 @@ Each project includes:
 * **Code:** source code and technical documentation.
 * **Visualization:** images, diagrams, and demonstrations of functionality.
 
----
 
 ## Key Technologies
 
@@ -33,16 +30,9 @@ Each project includes:
 * **Software:** C/C++, Python, MATLAB/Simulink, Fusion 360, SolidWorks.
 * **IoT & Automation:** MQTT, Blynk, Node-RED, PLC.
 
----
 
 ## Professional Contact
 
-* **LinkedIn:** [YourLinkedInProfile]
+* **LinkedIn:**
 * **Email:** Julioedo19@gmail.com
-* **Portfolio Website (optional):** [yourwebsite.com]
 
----
-
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
